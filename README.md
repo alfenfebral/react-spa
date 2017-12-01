@@ -1,0 +1,1 @@
+React SPA (Single Pages Application) with Pagination
